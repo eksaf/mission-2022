@@ -36,6 +36,7 @@ section img{
    padding-right: 10px;
    border-radius: 20px;
    margin-bottom: 100px;
+   background-color: lemonchiffon;
  }
 .limits{
     background-image: url(./images/shapes/shape-1.png);
@@ -43,5 +44,8 @@ section img{
     background-origin: left;
     
 }.global{
+    margin-top: 100px;
+}
+.connection{
     margin-top: 100px;
 }
