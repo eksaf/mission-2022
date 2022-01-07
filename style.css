@@ -35,7 +35,11 @@ section img{
    padding-left: 10px;
    padding-right: 10px;
    border-radius: 20px;
- 
-
-  
+   margin-bottom: 100px;
+ }
+.limits{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-origin: left;
+    background-size: inherit;
 }
