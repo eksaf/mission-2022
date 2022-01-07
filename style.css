@@ -41,5 +41,7 @@ section img{
     background-image: url(./images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-origin: left;
-    background-size: inherit;
+    
+}.global{
+    margin-top: 100px;
 }
